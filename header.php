@@ -84,7 +84,7 @@
 						</a>
 
 						<a href="#" class="flex-c-m trans-04 p-lr-25">
-							Mi cuenta_
+							Mi cuenta__
 						</a>
 
 						<!-- <a href="#" class="flex-c-m trans-04 p-lr-25">
