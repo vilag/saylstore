@@ -1,7 +1,7 @@
 <?php 
 
 //Ip de la pc servidor de base de datos
-define("DB_HOST","sql195.main-hosting.eu");
+define("DB_HOST","srv366.hstgr.io");
 //define("DB_HOST","localhost");
 
 //Nombre de la base de datos
